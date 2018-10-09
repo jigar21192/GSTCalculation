@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a.gstcalculation.SacCode">
+<android.support.v7.widget.Toolbar
+    android:id="@+id/sacToolbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/toolbar"
+    app:navigationIcon="@drawable/ic_arrow_back_black_24dp"
+    android:elevation="10dp"
+    ></android.support.v7.widget.Toolbar>
+    <ListView
+        android:id="@+id/listSac"
+        android:padding="10dp"
+        android:divider="@color/toolbar"
+        android:dividerHeight="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ></ListView>
+</LinearLayout>

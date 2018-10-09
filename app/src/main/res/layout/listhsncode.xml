@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HSN Code No.:"
+            android:textSize="@dimen/text_size"
+            android:textColor="@color/textColor"
+            />
+        <TextView
+        android:hint="HSN Code No."
+        android:id="@+id/txthcno"
+        android:typeface="serif"
+        android:textSize="@dimen/text_size"
+        android:textColor="@color/textColor"
+        android:textStyle="normal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_size"
+            android:textColor="@color/textColor"
+            android:text="HSN Code 4 Digit:"/>
+    <TextView
+        android:hint="HSN Code 4 Digit"
+        android:id="@+id/txthcfourno"
+        android:textSize="@dimen/text_size"
+        android:textColor="@color/textColor"
+        android:typeface="monospace"
+        android:textStyle="normal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    </LinearLayout>
+    <TextView
+        android:text="Name of Commodity"
+        android:id="@+id/txtDesc"
+        android:typeface="serif"
+        android:textSize="@dimen/text_size"
+        android:textColor="@color/textColor"
+        android:textStyle="italic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>

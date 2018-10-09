@@ -1,0 +1,498 @@
+[
+ {
+   "SAC": 441070,
+   "Services": "ACCOMODATION IN HOTELS/ INN/ GUEST HOUSE/ CLUB OR CAMP SITE ETC. SERVICE"
+ },
+ {
+   "SAC": 440013,
+   "Services": "ADVERTISING AGENCY"
+ },
+ {
+   "SAC": 440362,
+   "Services": "AIR TRANSPORT OF PASSENGER"
+ },
+ {
+   "SAC": 440032,
+   "Services": "AIR TRAVEL AGENCY"
+ },
+ {
+   "SAC": 440258,
+   "Services": "AIRPORT SERVICES"
+ },
+ {
+   "SAC": 440072,
+   "Services": "ARCHITECTS SERVICES"
+ },
+ {
+   "SAC": 440418,
+   "Services": "ASSET MANAGEMENT"
+ },
+ {
+   "SAC": 440346,
+   "Services": "ATM OPERATIONS"
+ },
+ {
+   "SAC": 440370,
+   "Services": "AUCTIONEERS SERVICES"
+ },
+ {
+   "SAC": 440173,
+   "Services": "BANKING AND FINANCIAL"
+ },
+ {
+   "SAC": 440209,
+   "Services": "BEAUTY PARLOURS"
+ },
+ {
+   "SAC": 440165,
+   "Services": "BROADCASTING SERVICE"
+ },
+ {
+   "SAC": 440254,
+   "Services": "BUSINESS AND EXHIBITION SERVICES"
+ },
+ {
+   "SAC": 440225,
+   "Services": "BUSINESS AUXILIARY SERVICES"
+ },
+ {
+   "SAC": 440366,
+   "Services": "BUSINESS SUPPORT SERVICES"
+ },
+ {
+   "SAC": 440217,
+   "Services": "CABLE OPERATORS"
+ },
+ {
+   "SAC": 440189,
+   "Services": "CARGO HANDLING SERVICES"
+ },
+ {
+   "SAC": 440092,
+   "Services": "CHARTERED ACCOUNTANTS"
+ },
+ {
+   "SAC": 440318,
+   "Services": "CLEANING SERVICES"
+ },
+ {
+   "SAC": 440045,
+   "Services": "CLEARING AND FORWARDING AGENCY"
+ },
+ {
+   "SAC": 440229,
+   "Services": "COMMERCIAL TRAINING & COACHING"
+ },
+ {
+   "SAC": 440100,
+   "Services": "COMPANY SECRETARIES"
+ },
+ {
+   "SAC": 440334,
+   "Services": "CONSTRUCTION OF RES. COMPLEX"
+ },
+ {
+   "SAC": 440290,
+   "Services": "CONSTRUCTION SERVICES IN RESPECT OF COMMERCIAL OR INDUSTRIAL BUILDINGS AND CIVIL STRUCTURES"
+ },
+ {
+   "SAC": 440057,
+   "Services": "CONSULTING ENGINEER"
+ },
+ {
+   "SAC": 440133,
+   "Services": "CONVENTION SERVICE"
+ },
+ {
+   "SAC": 440613,
+   "Services": "COPYRIGHT SERVICE TRANSFER TEMPORARILY OR PERMIT USE OR ENJOYMENT"
+ },
+ {
+   "SAC": 440460,
+   "Services": "COSMETICS & PLASTIC SURGERY SERVICES"
+ },
+ {
+   "SAC": 440096,
+   "Services": "COST ACCOUNTANTS"
+ },
+ {
+   "SAC": 440014,
+   "Services": "COURIER AGENCY"
+ },
+ {
+   "SAC": 440394,
+   "Services": "CREDIT CARD RELATED SERVICES"
+ },
+ {
+   "SAC": 440088,
+   "Services": "CREDIT RATING AGENCIES"
+ },
+ {
+   "SAC": 440026,
+   "Services": "CUSTOM HOUSE AGENT"
+ },
+ {
+   "SAC": 440422,
+   "Services": "DESIGN SERVICES"
+ },
+ {
+   "SAC": 440414,
+   "Services": "DEVELOPMENT AND SUPPLY OF CONTENT SERVICES"
+ },
+ {
+   "SAC": 440310,
+   "Services": "DREDGING SERVICES"
+ },
+ {
+   "SAC": 440221,
+   "Services": "DRY CLEANING SERVICES"
+ },
+ {
+   "SAC": 440610,
+   "Services": "ELECTRICITY EXCHANGE SERVICE"
+ },
+ {
+   "SAC": 440233,
+   "Services": "ERECTION,COMMISSIONING AND INSTALLATION"
+ },
+ {
+   "SAC": 440197,
+   "Services": "EVENT MANAGEMENT SERVICE"
+ },
+ {
+   "SAC": 440149,
+   "Services": "FACSIMILE SERVICES (FAX)"
+ },
+ {
+   "SAC": 440213,
+   "Services": "FASHION DESIGNER SERVICES"
+ },
+ {
+   "SAC": 440282,
+   "Services": "FORWARD CONTRACT SERVICES"
+ },
+ {
+   "SAC": 440237,
+   "Services": "FRANCHISE SERVICES"
+ },
+ {
+   "SAC": 440005,
+   "Services": "GENERAL INSURANCE BUSINESS"
+ },
+ {
+   "SAC": 440067,
+   "Services": "GOODS TRANSPORT OPERATORS"
+ },
+ {
+   "SAC": 440205,
+   "Services": "HEALTH CLUB AND FITNESS CENTER"
+ },
+ {
+   "SAC": 440598,
+   "Services": "HEALTH SERVICES BY A CLINICAL ESTABLISHMENT, HEALTH CHECKUP/DIAGNOSIS ETC."
+ },
+ {
+   "SAC": 440452,
+   "Services": "INFORMATION TECHNOLOGY SOFTWARE SERVICE"
+ },
+ {
+   "SAC": 440169,
+   "Services": "INSURANCE AUXILIARY"
+ },
+ {
+   "SAC": 440278,
+   "Services": "INTELLECTUAL PROPERTY SERVICES OTHER THAN COPYRIGHT"
+ },
+ {
+   "SAC": 440076,
+   "Services": "INTERIOR DECORATORS/ DESIGNER’S SERVICE"
+ },
+ {
+   "SAC": 440241,
+   "Services": "INTERNET CAFE"
+ },
+ {
+   "SAC": 440382,
+   "Services": "INTERNET TELECOMMUNICATION/ (TELEPHONY) SERVICE"
+ },
+ {
+   "SAC": 440137,
+   "Services": "LEASED CIRCUITS"
+ },
+ {
+   "SAC": 440480,
+   "Services": "LEGAL CONSULTANCY SERVICES"
+ },
+ {
+   "SAC": 440185,
+   "Services": "LIFE INSURANCE SERVICES"
+ },
+ {
+   "SAC": 440330,
+   "Services": "MAILING LIST COMPILATION"
+ },
+ {
+   "SAC": 440601,
+   "Services": "MAINTENANCE OF MEDICAL RECORDS SERVICE"
+ },
+ {
+   "SAC": 440245,
+   "Services": "MAINTENANCE OR REPAIR SERVICE"
+ },
+ {
+   "SAC": 440116,
+   "Services": "MANAGEMENT CONSULTANTS"
+ },
+ {
+   "SAC": 440035,
+   "Services": "MANDAP KEEPER"
+ },
+ {
+   "SAC": 440060,
+   "Services": "MANPOWER RECRUITMENT AGENCY"
+ },
+ {
+   "SAC": 440112,
+   "Services": "MARKET RESEARCH AGENCY"
+ },
+ {
+   "SAC": 440322,
+   "Services": "MEMBERSHIP OF CLUBS"
+ },
+ {
+   "SAC": 440402,
+   "Services": "MINING SERVICES"
+ },
+ {
+   "SAC": 440153,
+   "Services": "ONLINE INFORMATION AND DATA"
+ },
+ {
+   "SAC": 440274,
+   "Services": "OPINION POLL SERVICES"
+ },
+ {
+   "SAC": 441480,
+   "Services": "OTHER TAXABLE SERVICES – OTHER THAN THE ONES MENTIONED"
+ },
+ {
+   "SAC": 440051,
+   "Services": "OUTDOOR CATERING"
+ },
+ {
+   "SAC": 440326,
+   "Services": "PACKAGING SERVICES"
+ },
+ {
+   "SAC": 440015,
+   "Services": "PAGER SERVICES (RADIO PAGING)"
+ },
+ {
+   "SAC": 440054,
+   "Services": "PANDAL OR SHAMIANA SERVICES"
+ },
+ {
+   "SAC": 440607,
+   "Services": "PERMITTING COMMERCIAL USE OR EXPLOITATION OF EVENTS SERVICE"
+ },
+ {
+   "SAC": 440129,
+   "Services": "PHOTOGRAPHY SERVICE"
+ },
+ {
+   "SAC": 440177,
+   "Services": "PORT SERVICES"
+ },
+ {
+   "SAC": 440286,
+   "Services": "PROGRAMME PRODUCER SERVICES"
+ },
+ {
+   "SAC": 440604,
+   "Services": "PROMOTION OR MARKETING OF BRAND OF GOODS OR SERVICES OR EVENTS SERVICE"
+ },
+ {
+   "SAC": 440595,
+   "Services": "PROMOTION, MARKETING, ORGANISING OR ASSISTING IN ORGANISING GAMES OF CHANCE INCLUDING LOTTERY, ETC."
+ },
+ {
+   "SAC": 440374,
+   "Services": "PUBLIC RELATION MANAGEMENT SERVICE"
+ },
+ {
+   "SAC": 440201,
+   "Services": "RAIL TRAVEL AGENT"
+ },
+ {
+   "SAC": 440104,
+   "Services": "REAL ESTATE AGENT"
+ },
+ {
+   "SAC": 440434,
+   "Services": "RECOGNISED ASSOCIATION OR REGISTERED ASSOCIATION COMMONLY KNOWN AS COMMODITY EXCHANGE SERVICE"
+ },
+ {
+   "SAC": 440350,
+   "Services": "RECOVERY AGENT"
+ },
+ {
+   "SAC": 440338,
+   "Services": "REGISTRAR TO AN ISSUE"
+ },
+ {
+   "SAC": 440048,
+   "Services": "RENT A CAB OPERATORS"
+ },
+ {
+   "SAC": 440406,
+   "Services": "RENTING OF IMMOVABLE PROPERTY SERVICES"
+ },
+ {
+   "SAC": 440181,
+   "Services": "REPAIR, RECONDITIONING, RESTORATION OR DECORATION OR ANY SIMILAR SERVICES OF ANY MOTOR VEHICLE"
+ },
+ {
+   "SAC": 441067,
+   "Services": "RESTAURANT SERVICE"
+ },
+ {
+   "SAC": 440354,
+   "Services": "SALE OF SPACE OR TIME SLOT FOR ADVERTISEMENT"
+ },
+ {
+   "SAC": 440125,
+   "Services": "SCIENTIFIC AND TECHNICAL CONSULTANCY"
+ },
+ {
+   "SAC": 440108,
+   "Services": "SECURITY / DETECTIVE AGENCIES"
+ },
+ {
+   "SAC": 440442,
+   "Services": "SERVICES PROVIDED BY A PROCESSING AND CLEARINGHOUSE IN RELATION TO SECURTITIES, GOODS AND FORWARD CONTRACTS"
+ },
+ {
+   "SAC": 440430,
+   "Services": "SERVICES PROVIDED BY AN INSURER OF LIFE INSURANCE UNDER UNIT LINKED INSURANCE PLAN (ULIP)"
+ },
+ {
+   "SAC": 440438,
+   "Services": "SERVICES PROVIDED BY RECOGNISED OR REGISTERED ASSOCIATIONS IN RELATION TO CLEARANCE OR SETTLEMENT OF TRANSACTIONS IN\nGOODS OR FORWARD CONTRACTS"
+ },
+ {
+   "SAC": 440342,
+   "Services": "SHARE TRANSFER AGENT"
+ },
+ {
+   "SAC": 440378,
+   "Services": "SHIP MANAGEMENT SERVICE"
+ },
+ {
+   "SAC": 440306,
+   "Services": "SITE PREPARATION AND CLEARANCE"
+ },
+ {
+   "SAC": 440161,
+   "Services": "SOUND RECORDING SERVICE"
+ },
+ {
+   "SAC": 440616,
+   "Services": "SPECIAL SERVICES PROVIDED BY BUILDERS"
+ },
+ {
+   "SAC": 440358,
+   "Services": "SPONSORSHIP SERVICE"
+ },
+ {
+   "SAC": 440029,
+   "Services": "STEAMER AGENT"
+ },
+ {
+   "SAC": 440008,
+   "Services": "STOCK BROKER"
+ },
+ {
+   "SAC": 440193,
+   "Services": "STORAGE AND WAREHOUSE SERVICE"
+ },
+ {
+   "SAC": 440445,
+   "Services": "SUPPLY OF TANGIBLE GOODS FOR USE SERVICE"
+ },
+ {
+   "SAC": 440270,
+   "Services": "SURVEY AND EXPLORATION OF MINERAL"
+ },
+ {
+   "SAC": 440314,
+   "Services": "SURVEY AND MAP MAKING"
+ },
+ {
+   "SAC": 440249,
+   "Services": "TECHNICAL TESTING,INSPECTION, CERTIFICATION"
+ },
+ {
+   "SAC": 440398,
+   "Services": "TELECOMMUNICATION SERVICES"
+ },
+ {
+   "SAC": 440141,
+   "Services": "TELEGRAPH SERVICE"
+ },
+ {
+   "SAC": 440003,
+   "Services": "TELEPHONE SERVICE"
+ },
+ {
+   "SAC": 440145,
+   "Services": "TELEX SERVICE"
+ },
+ {
+   "SAC": 440063,
+   "Services": "TOUR OPERATOR"
+ },
+ {
+   "SAC": 440386,
+   "Services": "TRANSPORT BY CRUISE SHIPS"
+ },
+ {
+   "SAC": 440266,
+   "Services": "TRANSPORT OF GOODS BY AIR"
+ },
+ {
+   "SAC": 440470,
+   "Services": "TRANSPORT OF GOODS BY COASTAL SHIPPING (SERVICES BY WAY OF TRANSPORTATION OF GOODS BY INLAND WATERWAYS IS PLACED IN\nTHE NEGATIVE LIST)"
+ },
+ {
+   "SAC": 440302,
+   "Services": "TRANSPORT OF GOODS BY PIPELINE OR OTHER CONDUIT"
+ },
+ {
+   "SAC": 440390,
+   "Services": "TRANSPORT OF GOODS BY RAIL"
+ },
+ {
+   "SAC": 440262,
+   "Services": "TRANSPORT OF GOODS BY ROAD"
+ },
+ {
+   "SAC": 440294,
+   "Services": "TRAVEL AGENTS (OTHER THAN AIR/RAIL TRAVEL AGENTS)"
+ },
+ {
+   "SAC": 440084,
+   "Services": "UNDER WRITERS"
+ },
+ {
+   "SAC": 440157,
+   "Services": "VIDEO TAPE PRODUCTION"
+ },
+ {
+   "SAC": 440410,
+   "Services": "WORKS CONTRACT SERVICES"
+ },
+ {
+   "SAC": null,
+   "Services": ""
+ }
+]

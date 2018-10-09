@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="2">
+    <TextView
+        android:id="@+id/txtinitiateamount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Initiate Amount:-"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/text_size"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/getinitiateamount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Intial amount"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="0dp"
+        android:layout_weight="1"/>
+</LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="2">
+    <TextView
+        android:id="@+id/txtgstrate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GST Rate:-"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/text_size"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="36dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/getgstrate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Gst Rate"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="166dp"
+        tools:layout_editor_absoluteY="36dp"
+        android:layout_weight="1"/>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
+    <TextView
+        android:id="@+id/txtnetprice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Net Price:-"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/text_size"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="76dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/getnetprice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Net Price"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/text_size"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="76dp"
+        android:layout_weight="1"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
+    <TextView
+        android:id="@+id/txtgsttotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total GST:-"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/text_size"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="112dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/getgsttotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Total GST"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/text_size"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="112dp"
+        android:layout_weight="1"/>
+    </LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="2">
+    <TextView
+        android:id="@+id/txtamounttotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total Amount:-"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/text_size"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="147dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/getamounttotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Total Amount"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="147dp"
+        android:layout_weight="1"/>
+</LinearLayout>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/ivDel"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="25dp"
+        android:src="@drawable/ic_delete_black_24dp" />
+</RelativeLayout>
+
+</LinearLayout>
